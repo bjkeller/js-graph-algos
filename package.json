@@ -1,0 +1,25 @@
+{
+  "name": "collectionsdemos",
+  "version": "0.0.0",
+  "description": "playing around with collections",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "grunt simplemocha"
+  },
+  "author": "Ben Keller",
+  "license": "MIT",
+  "dependencies": {
+    "collections": "^1.0.1"
+  },
+  "devDependencies": {
+    "grunt-simple-mocha": "~0.4.0",
+    "grunt": "~0.4.2",
+    "chai": "~1.8.1"
+  },
+  "keywords": [
+    "collections"
+  ]
+}
